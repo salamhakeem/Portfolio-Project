@@ -1,0 +1,24 @@
+[
+    {
+        "editor_seconds": 60,
+        "session_seconds": 0,
+        "file_seconds": 0,
+        "day": "2022-01-24",
+        "project": {
+            "directory": "c:\\Users\\SALAM HAKEEM\\Documents\\AL\\AL-Samples-Send-Email-with-Multi-Attachments",
+            "name": "AL-Samples-Send-Email-with-Multi-Attachments",
+            "resource": {}
+        }
+    },
+    {
+        "editor_seconds": 547,
+        "session_seconds": 517,
+        "file_seconds": 300,
+        "day": "2022-01-24",
+        "project": {
+            "directory": "c:\\Users\\SALAM HAKEEM\\Documents\\AL\\CRXT",
+            "name": "CRXT",
+            "resource": {}
+        }
+    }
+]

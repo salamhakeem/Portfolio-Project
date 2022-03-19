@@ -1,0 +1,67 @@
+[I 09:40:41.332 NotebookApp] JupyterLab extension loaded from C:\Users\SALAM HAKEEM\Anaconda3\lib\site-packages\jupyterlab
+[I 09:40:41.333 NotebookApp] JupyterLab application directory is C:\Users\SALAM HAKEEM\Anaconda3\share\jupyter\lab
+[I 09:40:41.336 NotebookApp] Serving notebooks from local directory: C:\Users\SALAM HAKEEM
+[I 09:40:41.336 NotebookApp] The Jupyter Notebook is running at:
+[I 09:40:41.336 NotebookApp] http://localhost:8888/?token=596f26e90a7862ca02658c8668fdf54a6dc140b0c1c99c7c
+[I 09:40:41.336 NotebookApp]  or http://127.0.0.1:8888/?token=596f26e90a7862ca02658c8668fdf54a6dc140b0c1c99c7c
+[I 09:40:41.336 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:40:41.404 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/SALAM%20HAKEEM/AppData/Roaming/jupyter/runtime/nbserver-3200-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=596f26e90a7862ca02658c8668fdf54a6dc140b0c1c99c7c
+     or http://127.0.0.1:8888/?token=596f26e90a7862ca02658c8668fdf54a6dc140b0c1c99c7c
+[I 09:40:46.917 NotebookApp] Creating new notebook in 
+[I 09:40:48.517 NotebookApp] Kernel started: aaea6868-1dc6-42c8-b809-d3683b274d65
+[I 09:42:48.430 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:44:48.430 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:46:48.437 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:48:48.451 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:50:48.468 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:52:48.486 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:54:48.488 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:55:10.696 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:b7be9402509141358d7edf1f70233964
+[I 09:55:16.089 NotebookApp] Kernel restarted: aaea6868-1dc6-42c8-b809-d3683b274d65
+[I 09:55:17.346 NotebookApp] Kernel restarted: aaea6868-1dc6-42c8-b809-d3683b274d65
+[I 09:55:17.361 NotebookApp] Restoring connection for aaea6868-1dc6-42c8-b809-d3683b274d65:b7be9402509141358d7edf1f70233964
+[I 09:55:18.371 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:b7be9402509141358d7edf1f70233964
+[I 09:55:18.374 NotebookApp] Restoring connection for aaea6868-1dc6-42c8-b809-d3683b274d65:b7be9402509141358d7edf1f70233964
+[I 09:56:48.487 NotebookApp] Saving file at /Untitled21.ipynb
+[I 09:58:48.497 NotebookApp] Saving file at /Untitled21.ipynb
+[I 10:00:48.496 NotebookApp] Saving file at /Untitled21.ipynb
+[W 10:02:40.694 NotebookApp] 404 GET /api/contents/Plot_job.ipynb?type=notebook&content=0&_=1585816848002 (::1): No such file or directory: Plot_job.ipynb
+[W 10:02:40.694 NotebookApp] No such file or directory: Plot_job.ipynb
+[W 10:02:40.694 NotebookApp] 404 GET /api/contents/Plot_job.ipynb?type=notebook&content=0&_=1585816848002 (::1) 1.98ms referer=http://localhost:8888/notebooks/Untitled21.ipynb?kernel_name=python3
+[I 10:02:40.701 NotebookApp] Uploading file to /Plot_job.ipynb
+[I 10:03:41.233 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:b7be9402509141358d7edf1f70233964
+[I 10:03:57.263 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:e72df1cbd68b4851814f7fc8166757dc
+[I 10:04:02.608 NotebookApp] Kernel restarted: aaea6868-1dc6-42c8-b809-d3683b274d65
+[I 10:04:03.649 NotebookApp] Restoring connection for aaea6868-1dc6-42c8-b809-d3683b274d65:e72df1cbd68b4851814f7fc8166757dc
+[I 10:04:03.649 NotebookApp] Replaying 3 buffered messages
+[I 10:05:42.158 NotebookApp] Saving file at /Plot_job.ipynb
+[I 10:07:42.155 NotebookApp] Saving file at /Plot_job.ipynb
+[I 10:09:58.359 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:e72df1cbd68b4851814f7fc8166757dc
+[I 10:10:03.921 NotebookApp] Kernel restarted: aaea6868-1dc6-42c8-b809-d3683b274d65
+[I 10:10:04.952 NotebookApp] Restoring connection for aaea6868-1dc6-42c8-b809-d3683b274d65:e72df1cbd68b4851814f7fc8166757dc
+[I 10:10:04.952 NotebookApp] Replaying 3 buffered messages
+[I 10:11:42.165 NotebookApp] Saving file at /Plot_job.ipynb
+[I 10:13:42.166 NotebookApp] Saving file at /Plot_job.ipynb
+[I 10:13:49.434 NotebookApp] Saving file at /Plot_job.ipynb
+[I 10:13:59.515 NotebookApp] Saving file at /Plot_job.ipynb
+[I 10:15:42.165 NotebookApp] Saving file at /Plot_job.ipynb
+[W 10:16:23.421 NotebookApp] 404 GET /api/contents/Py_two.ipynb?type=notebook&content=0&_=1585818221821 (::1): No such file or directory: Py_two.ipynb
+[W 10:16:23.422 NotebookApp] No such file or directory: Py_two.ipynb
+[W 10:16:23.422 NotebookApp] 404 GET /api/contents/Py_two.ipynb?type=notebook&content=0&_=1585818221821 (::1) 1.00ms referer=http://localhost:8888/notebooks/Plot_job.ipynb
+[I 10:16:23.430 NotebookApp] Uploading file to /Py_two.ipynb
+[I 10:23:55.141 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:e72df1cbd68b4851814f7fc8166757dc
+[I 10:25:55.999 NotebookApp] Saving file at /Py_two.ipynb
+[I 10:27:56.001 NotebookApp] Saving file at /Py_two.ipynb
+[I 10:35:17.251 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:0ca537cc9442464aa78bb06d84c6aa18
+[I 10:35:22.452 NotebookApp] Kernel restarted: aaea6868-1dc6-42c8-b809-d3683b274d65
+[I 10:35:23.467 NotebookApp] Restoring connection for aaea6868-1dc6-42c8-b809-d3683b274d65:0ca537cc9442464aa78bb06d84c6aa18
+[I 10:35:56.036 NotebookApp] Saving file at /Py_two.ipynb
+[I 10:47:56.043 NotebookApp] Saving file at /Py_two.ipynb
+[I 12:07:53.975 NotebookApp] Saving file at /Py_two.ipynb
+[I 12:09:53.959 NotebookApp] Saving file at /Py_two.ipynb
+[I 08:33:59.897 NotebookApp] Starting buffering for aaea6868-1dc6-42c8-b809-d3683b274d65:0ca537cc9442464aa78bb06d84c6aa18
